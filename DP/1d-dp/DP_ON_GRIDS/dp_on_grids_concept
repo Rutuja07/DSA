@@ -1,0 +1,3 @@
+// each cell represents the state, 
+// key idea is to compute the result of the given cell based on previously computed values for
+// neighbouring cells
